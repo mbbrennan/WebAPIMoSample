@@ -26,7 +26,7 @@ namespace WebAPIMoSample.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello World! It's a fucking API.";
+            return "Hello World! It's a fucking API. Let's go!!!!!!" ;
         }
     }
 }
